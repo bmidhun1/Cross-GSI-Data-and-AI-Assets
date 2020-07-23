@@ -3,7 +3,7 @@
 Steps to Sign up for IBM Public Cloud.
 
 
-1. Go to [cloud.ibm.com/registration](cloud.ibm.com/registration)
+1. Go to [cloud.ibm.com/registration](https://cloud.ibm.com/registration)
 
 ![alt text](https://github.com/olladapunaresh/Cross-GSI-Data-and-AI-Assets/blob/master/coud_registration.png)
 
