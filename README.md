@@ -5,8 +5,7 @@ Steps to Sign up for IBM Public Cloud.
 
 1.Go to [cloud.ibm.com/registration](cloud.ibm.com/registration)
 
-
-
+![alt text](https://github.com/olladapunaresh/Cross-GSI-Data-and-AI-Assets/blob/master/coud_registration.png)
 
 2.Enter your Email address and personal details and click on Create Account.
 
@@ -14,4 +13,4 @@ Steps to Sign up for IBM Public Cloud.
 
 4.Click on Confirm Account and your account would be activated.
 
-5.Now your ready to use your IBM Cloud Account.
+5.Now you are ready to use your IBM Cloud Account.
